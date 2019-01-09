@@ -26,6 +26,18 @@
             <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
             <script type="text/javascript" src="particles.js"></script>
             <script type="text/javascript" src="app.js"></script>
+            <script type="text/javascript">
+                function validasi(){
+                    var nama = document.getElementById("nama").value;
+                    var email = document.getElementById("email").value;
+                    if (nama != "" && email != ""){
+                        return true;
+                    }
+                    else {
+                        alert('Anda harus memasukkan semua data');
+                    }
+                }
+            </script>
     </div>
     </section>
 </body>
