@@ -12,4 +12,5 @@
 * hasil uji latihan6.php <br>
 ![alt text](https://github.com/Pramuja/Praktikum_modul_3_php/blob/master/latihan6.JPG)
 * hasil uji tugas.php <br>
-![alt text](https://github.com/Pramuja/Praktikum_modul_3_php/blob/master/tugas.JPG)
+![alt text](https://github.com/Pramuja/Praktikum_modul_3_php/blob/master/tugas.JPG)<br>
+Terdapat validasi menggunakan javascript jika form tidak diisi maka akan muncul pop-up perintah untuk mengisi, sedangkan jika diisi akan menampilkan username dan juga email
